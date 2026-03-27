@@ -1,6 +1,6 @@
 ## Hi, I am Nicole👋
 
-I am in my third year working towards a second degree in computer science at Simon Fraser University 
+I am in my final year of a second degree in computer science at Simon Fraser University 
 
 ### Skills
 #### Languages
@@ -21,10 +21,4 @@ I am in my third year working towards a second degree in computer science at Sim
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </div>
 
-
-### I'm currently working on
-- https://github.com/ncmahh/Clutter_counter.git
-
-### Currently learning
-- Java, HTML, CSS
 
